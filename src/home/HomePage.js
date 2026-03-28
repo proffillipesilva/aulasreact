@@ -5,8 +5,8 @@ const HomePage = props => {
   return (
     <div>
         <h1>HomePage</h1>
-        <img src='https://blog.logrocket.com/wp-content/uploads/2022/08/guide-adding-google-login-react-app-1.png'/>
-    </div>
+        <img src='https://upload.wikimedia.org/wikipedia/commons/b/b8/Messi_vs_Nigeria_2018.jpg'/>
+        </div>
   )
 }
 
