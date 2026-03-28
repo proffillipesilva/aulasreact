@@ -18,9 +18,8 @@ const App = props => {
   return (
     <div>
             
-
-
       <Router>
+        <div ><Link to={"/"}>Home</Link></div>
         <div ><Link to={"/form"}>Form</Link></div>
         <div ><Link to={"/table"}>Table</Link></div>
         <div ><Link to={"/"}>Home</Link></div>
