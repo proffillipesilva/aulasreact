@@ -31,11 +31,6 @@
       "id": "3",
       "title": "Titanic",
       "author": "Helga"
-    },
-    {
-      "id": "mateus",
-      "title": "aluno",
-      "author": "quervazar"
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"
