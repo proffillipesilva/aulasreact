@@ -25,6 +25,8 @@ const App = props => {
         
 
         <Routes>
+
+          {/* Adicionando rota Home (index) e a fallback (*) */}
           
           <Route index element={<HomePage />} />
           <Route path='/form' element={<FormPage />} />
